@@ -10,7 +10,7 @@ Model View Control (MVC)
 Container Design Patter 
 
 
-# FrameWrok
+# FrameWork
 Entity FrameWork 6.00
 AutoMaper
 Autofac
